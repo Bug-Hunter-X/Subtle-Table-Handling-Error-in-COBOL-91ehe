@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in COBOL table handling. The code intends to populate a table with sequential numbers and then display its contents. However, a small mistake in how the table is accessed leads to an unexpected output. The solution provides the corrected code and highlights the error.
